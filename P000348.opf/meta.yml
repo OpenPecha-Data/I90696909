@@ -1,15 +1,16 @@
-id: opecha:P000348
+id: P000348
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W26036
   title: སྡོམ་པ་གསུམ་གྱི་རྒྱན་ཅེས་བྱ་བའི་བསྟན་བཅོས་ཀྱི་མཆན་འགྲེལ་པད་དཀར་ཞལ་ལུང
-  volume:
+  author: ''
+  volumes:
     196e8f75d74541f0913b0467b561adc6:
       image_group_id: I4334
       title: ''
       volume_number: 1
       total_pages: 416
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྡོམ་པ་གསུམ་གྱི་རྒྱན་ཅེས་བྱ་བའི་བསྟན་བཅོས་ཀྱི་མཆན་འགྲེལ་པད་དཀར་ཞལ་ལུང
   author: ''
